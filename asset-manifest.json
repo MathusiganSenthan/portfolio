@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MathusiganSenthan/portfolio/static/css/main.6d3575f2.css",
+    "main.js": "/MathusiganSenthan/portfolio/static/js/main.7e06bbe3.js",
+    "static/css/487.bb36206c.chunk.css": "/MathusiganSenthan/portfolio/static/css/487.bb36206c.chunk.css",
+    "static/js/487.7ae187c0.chunk.js": "/MathusiganSenthan/portfolio/static/js/487.7ae187c0.chunk.js",
+    "static/css/990.c6a7ee28.chunk.css": "/MathusiganSenthan/portfolio/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.567a0b93.chunk.js": "/MathusiganSenthan/portfolio/static/js/990.567a0b93.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/MathusiganSenthan/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/MathusiganSenthan/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/MathusiganSenthan/portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/Screenshot 2025-01-31 102023.png": "/MathusiganSenthan/portfolio/static/media/Screenshot 2025-01-31 102023.02e1531af8c9532d9c90.png",
+    "static/media/developerActivity.svg": "/MathusiganSenthan/portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/WhatsApp Image 2025-01-30 at 23.32.30_061587f8.jpg": "/MathusiganSenthan/portfolio/static/media/WhatsApp Image 2025-01-30 at 23.32.30_061587f8.897ee1d68881fa896d5e.jpg",
+    "static/media/skill.svg": "/MathusiganSenthan/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/MathusiganSenthan/portfolio/index.html",
+    "static/media/talksCardBack.svg": "/MathusiganSenthan/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.6d3575f2.css.map": "/MathusiganSenthan/portfolio/static/css/main.6d3575f2.css.map",
+    "main.7e06bbe3.js.map": "/MathusiganSenthan/portfolio/static/js/main.7e06bbe3.js.map",
+    "487.bb36206c.chunk.css.map": "/MathusiganSenthan/portfolio/static/css/487.bb36206c.chunk.css.map",
+    "487.7ae187c0.chunk.js.map": "/MathusiganSenthan/portfolio/static/js/487.7ae187c0.chunk.js.map",
+    "990.c6a7ee28.chunk.css.map": "/MathusiganSenthan/portfolio/static/css/990.c6a7ee28.chunk.css.map",
+    "990.567a0b93.chunk.js.map": "/MathusiganSenthan/portfolio/static/js/990.567a0b93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d3575f2.css",
+    "static/js/main.7e06bbe3.js"
+  ]
+}
